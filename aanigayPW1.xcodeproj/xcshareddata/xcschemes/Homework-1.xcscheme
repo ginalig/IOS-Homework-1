@@ -16,8 +16,8 @@
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "1258EE4128D8BA6E009CECFC"
                BuildableName = "Homework-1.app"
-               BlueprintName = "Homework-1"
-               ReferencedContainer = "container:Homework-1.xcodeproj">
+               BlueprintName = "aanigayPW1"
+               ReferencedContainer = "container:aanigayPW1.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -46,8 +46,8 @@
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "1258EE4128D8BA6E009CECFC"
             BuildableName = "Homework-1.app"
-            BlueprintName = "Homework-1"
-            ReferencedContainer = "container:Homework-1.xcodeproj">
+            BlueprintName = "aanigayPW1"
+            ReferencedContainer = "container:aanigayPW1.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -63,8 +63,8 @@
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "1258EE4128D8BA6E009CECFC"
             BuildableName = "Homework-1.app"
-            BlueprintName = "Homework-1"
-            ReferencedContainer = "container:Homework-1.xcodeproj">
+            BlueprintName = "aanigayPW1"
+            ReferencedContainer = "container:aanigayPW1.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
